@@ -2,7 +2,7 @@
 
 ##  Prerequesites 
 
-  > Min ***JAVA 8*** in PC <br>
+  > ***JAVA 8*** in PC <br>
   > Two PDFs to compare
 
 ## How It's works
